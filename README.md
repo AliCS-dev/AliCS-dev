@@ -1,4 +1,4 @@
-# Hi there, I'm AliCS-dev! 👋
+# Hi there, I'm Ali 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to code for learning. Here's a little about me:
 
