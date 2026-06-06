@@ -8,6 +8,5 @@ I am currently working on a BSc thesis project focused on traffic and crowd moni
 
 - DevOps and automation
 - CI/CD pipelines
-- AI-based applications
 - Backend development
 - Cloud and infrastructure tools
