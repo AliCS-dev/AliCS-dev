@@ -7,6 +7,7 @@ I am currently working on a BSc thesis project focused on traffic and crowd moni
 ## Interests
 
 - DevOps and automation
+- Mathematics
 - CI/CD pipelines
 - Backend development
 - Cloud and infrastructure tools
