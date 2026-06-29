@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AliCS-dev](https://github.com/AliCS-dev)
 
-- 💬 Ask me about **Python, RAG, YOLOv8, Machine Learning, Computer Vision**
+- 💬 Ask me about **C++, Python, RAG, YOLOv8, Machine Learning, Computer Vision**
 
 - 📫 How to reach me **muhammadalikhanhitec@gmail.com**
 
