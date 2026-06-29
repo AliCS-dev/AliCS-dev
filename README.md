@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alics-dev&label=Profile%20views&color=0e75b6&style=flat" alt="alics-dev" /> </p>
 
-- 🔭 I’m currently working on [Crowd Monitoring Thesis](https://github.com/AliCS-dev/traffic-crowd-monitoring-app)
+-  I’m currently working on [Crowd Monitoring Thesis](https://github.com/AliCS-dev/traffic-crowd-monitoring-app)
 
-- 🌱 I’m currently learning **AWS, Docker, FastAPI, CI/CD Pipelines and Large Language Models**
+-  I’m currently learning **AWS, Docker, FastAPI, CI/CD Pipelines and Large Language Models**
 
-- 👯 I’m looking to collaborate on **Open Source AI, RAG and Computer Vision Projects**
+-  I’m looking to collaborate on **Open Source AI, RAG and Computer Vision Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AliCS-dev](https://github.com/AliCS-dev)
+-  All of my projects are available at [https://github.com/AliCS-dev](https://github.com/AliCS-dev)
 
-- 💬 Ask me about **C++, Python, RAG, YOLOv8, Machine Learning, Computer Vision**
+-  Ask me about **C++, Python, RAG, YOLOv8, Machine Learning, Computer Vision**
 
-- 📫 How to reach me **muhammadalikhanhitec@gmail.com**
+-  How to reach me **muhammadalikhanhitec@gmail.com**
 
 - 📄 Know about my experiences [Research Internship at University of Cagliari, Aalto AI Summer School, BSc Computer Science](Research Internship at University of Cagliari, Aalto AI Summer School, BSc Computer Science)
 
-- ⚡ Fun fact **I enjoy turning research ideas into working software prototypes.**
+-  Fun fact **I enjoy turning research ideas into working software prototypes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alics-dev&show_icons=true&locale=en" alt="alics-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alics-dev&" alt="alics-dev" /></p>
 
