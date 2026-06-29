@@ -7,18 +7,13 @@
 
 -  I’m currently learning **AWS, Docker, FastAPI, CI/CD Pipelines and Large Language Models**
 
--  I’m looking to collaborate on **Open Source AI, RAG and Computer Vision Projects**
+-  I'm looking to collaborate on **open-source software, AI, systems programming, and computer vision projects**.
 
--  All of my projects are available at [https://github.com/AliCS-dev](https://github.com/AliCS-dev)
-
--  Ask me about **C++, Python, RAG, YOLOv8, Machine Learning, Computer Vision**
+-  Ask me about **C++,Linux, Python, Distributed Systems, RAG, YOLOv8, Machine Learning, Computer Vision**
 
 -  How to reach me **muhammadalikhanhitec@gmail.com**
 
-- 📄 Know about my experiences [Research Internship at University of Cagliari, Aalto AI Summer School, BSc Computer Science](Research Internship at University of Cagliari, Aalto AI Summer School, BSc Computer Science)
-
--  Fun fact **I enjoy turning research ideas into working software prototypes.**
-
+- 📄 Learn More about me : **https://alics-dev.github.io/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-ali-khan-97708b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-ali-khan-97708b299" height="30" width="40" /></a>
